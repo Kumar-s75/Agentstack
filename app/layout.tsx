@@ -21,7 +21,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "AgentStack - AI-Powered Agents",
   description:
-    "Supercharge your business with AI agents on demand. Subscribe and get powerful assistants that work 24/7 to grow your impact.",
+    "Subscribe to powerful assistants working 24/7 to scale your impact.",
 };
 
 export default function RootLayout({
