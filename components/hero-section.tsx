@@ -110,7 +110,7 @@ export default function HeroSection() {
                   as="h1"
                   className="mt-6 text-balance font-bricolage font-semibold text-4xl sm:text-5xl md:text-6xl lg:text-7xl lg:mt-10 xl:text-[5.25rem] leading-tight tracking-tight text-center max-w-5xl mx-auto"
                 >
-                  Supercharge your business with AI agents on demandAI-Powered Content Creation at Scale
+                AI-Powered Content Creation at Scale
                 </TextEffect>
                 <TextEffect
                   per="line"
